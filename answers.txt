@@ -9,3 +9,8 @@ Answer: Data science can be applied to marketing, where salespeople are interest
 Q3 What is the difference between Merging and Rebasing?
 
 Answer: While merging preserves history, rebasing overwrites it.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about upper-level mathematics/compsci and how I can be a part of the field.
+
